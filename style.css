@@ -1,0 +1,31 @@
+h1 {
+    text-align:center;
+    color:rgb(100,80,25);
+    font-size:30pt;
+  }
+  
+  p {
+    font-size:12pt;
+  }
+  
+  img {
+    float:center;
+  }
+  
+  #myPhoto {
+    float:left;
+    width:80px;
+  }
+  
+  #hobbyPhoto{
+    width:300px;
+  }
+  
+  .links{
+    background-color:rgb(210,210,210);
+    color:blue;
+  }
+  
+  body {
+    background-color:rgb(112,134,188);
+  }
